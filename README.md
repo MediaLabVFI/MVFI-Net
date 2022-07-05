@@ -1,7 +1,7 @@
 # MVFI-Net (Paper ID:)
 MVFI-Net: Motion-aware Video Frame Interpolation Network 
 
-## Requirments
+## Requirements
 * Linux
 * python3.8
 * pytorch1.7.0+cuda11.0
