@@ -9,8 +9,8 @@ MVFI-Net: Motion-aware Video Frame Interpolation Network
 * pillow8.4.0
 
 ## Demo run
-We only show the codes of MAC which is our key warping algorithm. Eq. (2) and Eq. (10) are reproduced.  
-f<sub>10</sub>, f<sub>12</sub> and I_bar will be generated and stored into './results'. Note that I_bar is not the final output of MVFI-Net.  
+We only show the codes of MAC which is our key warping algorithm. Eq. (2) and Eq. (10) are reproduced.    
 The rest of codes will be made publicly available soon.
 * cd Demo
 * python run.py  
+Then f<sub>10</sub>, f<sub>12</sub> and I_bar will be generated and stored into './results'. Note that I_bar is not the final output of MVFI-Net.
